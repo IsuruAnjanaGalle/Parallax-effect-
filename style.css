@@ -1,0 +1,46 @@
+body
+{
+    margin: 10;
+    padding: 0;
+}
+
+.box1{
+    height: 100vh;
+    width: 100%;
+    background-image: url(the-hobbit-1.jpg);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+}
+
+.box2{
+    height: 100vh;
+    width: 100%;
+    background-image: url(the-hobbit-2.jpg);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+}
+
+.box3{
+    height: 100vh;
+    width: 100%;
+    background-image: url(the-hobbit-3.jpg);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+}
+
+h1{
+    font-family: monospace;
+    font-size: 60px;
+    color: rgb(203, 206, 35);
+    margin: 0;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+
+}
